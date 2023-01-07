@@ -1,11 +1,12 @@
 # CopyCommandFree
 We just want a copy command box without any symbol in front of the command, we are lazy =)
 
-```python
-This campaign is an appeal to our dear README authors.
+
+
+  This campaign is an appeal to our dear README authors.
 We just want a copy command box without any symbol in front of the command, we are lazy =)
-Thus, the copy button, attached to the box, once again has a life purpose o/ ```
-```
+Thus, the copy button, attached to the box, once again has a life purpose o/
+
 
 
 ```python
